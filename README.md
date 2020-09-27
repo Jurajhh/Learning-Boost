@@ -1,10 +1,10 @@
 # Learning-Boost
 Learning to use C++ Boost library
 
-# Task 1:
+### Task 1:
 Write a program that sends a std::vector (of say doubles) from a master C++ process to a child based on the BOOST ASIO C++ multi-threaded demo.
 
-# Learning resources:
+### Learning resources:
 
 1. I went through some of the examples of Gamedev article:
 https://www.gamedev.net/blogs/entry/2249317-a-guide-to-getting-started-with-boostasio/
