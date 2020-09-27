@@ -1,4 +1,6 @@
 // https://www.bogotobogo.com/cplusplus/Boost/boost_AsynchIO_asio_tcpip_socket_server_client_timer_bind_handler_multithreading_synchronizing_C.php
+// I modified the code from Bogotobogo slightly to fix minor issues.
+
 
 #include <iostream>
 #include <boost/asio.hpp>
